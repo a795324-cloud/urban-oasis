@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#d5d0ad"/><stop offset="1" stop-color="#7b9a80"/></linearGradient><linearGradient id="water" x2="0" y2="1"><stop stop-color="#73988a"/><stop offset="1" stop-color="#315b50"/></linearGradient></defs>
+<rect width="1200" height="700" fill="url(#sky)"/><circle cx="890" cy="155" r="95" fill="#f0dfb6"/>
+<path d="M0 390V300h100v-90h90v180h80V250h100v140h100V285h100v105h90V240h110v150h100V280h100v110h130v-80h100v390H0z" fill="#526d5c" opacity=".5"/>
+<path d="M220 455l70-95h540l80 95v180H220z" fill="#a65d46"/><path d="M195 370h745l-65-65H260z" fill="#804a3b"/>
+<g fill="#e0c69b"><rect x="300" y="440" width="90" height="100"/><rect x="465" y="440" width="90" height="100"/><rect x="630" y="440" width="90" height="100"/><rect x="795" y="440" width="90" height="100"/></g>
+<path d="M0 580q220-60 430 0t400 0 370 0v120H0z" fill="url(#water)"/><path d="M0 620h1200" stroke="#b9c6a5" stroke-width="5" opacity=".5"/>
+<g fill="#315b43"><circle cx="120" cy="390" r="95"/><circle cx="1050" cy="390" r="110"/></g><g fill="#6b4b37"><rect x="108" y="440" width="22" height="130"/><rect x="1040" y="445" width="24" height="130"/></g>
+<text x="60" y="655" fill="#f4f0df" font-family="Arial,sans-serif" font-size="22" letter-spacing="7">URBAN OASIS · TAICHUNG</text></svg>
